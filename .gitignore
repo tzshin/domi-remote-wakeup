@@ -23,12 +23,9 @@
 # Logs and databases
 *.log
 
-# User-specific configurations
-platformio.ini
-
 # Ignore PlatformIO lib and include folders
-lib/
-include/
+lib/*
+include/*
 
 # Secret file
 secret.h
