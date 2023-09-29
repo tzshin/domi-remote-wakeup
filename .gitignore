@@ -23,9 +23,5 @@
 # Logs and databases
 *.log
 
-# Ignore PlatformIO lib and include folders
-lib/*
-include/*
-
 # Secret file
 secret.h
