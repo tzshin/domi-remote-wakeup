@@ -23,5 +23,5 @@
 # Logs and databases
 *.log
 
-# Secret file
-secret.h
+# File containing secret informations
+secrets.h
