@@ -8,11 +8,11 @@
 #include <secrets.h>
 
 
-#if ARDUINO_USB_MODE
-#warning This sketch should be used when USB is in OTG mode
-void setup(){}
-void loop(){}
-#else
+// #if ARDUINO_USB_MODE
+// #warning This sketch should be used when USB is in OTG mode
+// void setup(){}
+// void loop(){}
+// #else
 
 
 
@@ -52,4 +52,4 @@ void loop() {
 }
 
 
-#endif /* ARDUINO_USB_MODE */
+// #endif /* ARDUINO_USB_MODE */
